@@ -348,4 +348,5 @@ git push
 
 - Documentation officielle (en français) : [Pro Git (fr)](https://git-scm.com/book/fr/v2)
 - Aide-mémoire GitHub : [Aide-mémoire Git (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
-- Interfaces graphiques, si vous préférez à la ligne de commande : *GitHub Desktop*, ou l'onglet « Source Control » de *Visual Studio Code*. Les principes décrits ici restent identiques.
+- Interfaces graphiques, si vous préférez à la ligne de commande : *GitHub Desktop*, ou l'onglet « Source Control  de *Visual Studio Code*. Les principes décrits ici restent identiques.
+- Culture générale (facultatif, hors mini-projet) : [Qu'est-ce que le CI/CD ?](https://www.youtube.com/watch?v=ws1qGuFMYlc), une vidéo de 8 minutes qui montre où Git s'insère dans une chaîne professionnelle d'intégration et de déploiement continus.
