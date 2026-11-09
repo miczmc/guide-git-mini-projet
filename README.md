@@ -36,7 +36,7 @@ Dans Git Bash :
 
 ```bash
 git config --global user.name  "Prénom Nom"
-git config --global user.email "votre.adresse@exemple.fr"
+git config --global user.email "votre.adresse@universite-paris-saclay.fr"
 git config --global core.autocrlf true      # gère les fins de ligne Windows / Linux
 git config --global init.defaultBranch main
 ```
@@ -75,7 +75,7 @@ Git for Windows fournit *Git Credential Manager*. Au premier `git push` (ou `git
 Choisissez un dossier **court et sans espace ni accent** (les chemins trop longs posent problème à Keil et à Qt), par exemple `C:\Projets` :
 
 ```bash
-cd /c/Projets
+cd C:\Projets
 git clone https://github.com/VOTRE_COMPTE/radar-ultrasons.git
 cd radar-ultrasons
 ```
